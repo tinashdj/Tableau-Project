@@ -12,3 +12,12 @@ This repository for my project using Tableau as data visualization tool
    Link: https://public.tableau.com/app/profile/sri.hartina/viz/callcenterproject_16655045000700/Dashboard1
    
 ![Call Center Dashboard - #RWFD - Tableau Public](https://user-images.githubusercontent.com/110084624/233933765-d7a94d7d-22fe-4b25-8e9e-bf4166cb50fc.png)
+
+
+3. Parental Leave Policies: What Companies and Industries offer the best Maternity Leave and Paternity Leave?
+   This is Maven Family Leave Challenge from Maven Analytics. For this challenge, i'll be working as a Data Visualization Specialist at an online business journal. My  
+   role is to create charts, visuals, and infographics as supporting content for articles. The data analyzed were parental leave data from 1,601 companies in 51 
+   industries, including weeks of paid/unpaid maternity and paternity leave.
+   Link: https://public.tableau.com/app/profile/sri.hartina/viz/Practice2_16818832751140/Dashboard1 
+   
+![Parental Leave Policies](https://user-images.githubusercontent.com/110084624/233935734-76108c6c-91bd-42e8-8bd3-00497056f3b7.png)
