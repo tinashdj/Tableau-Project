@@ -21,3 +21,8 @@ This repository for my project using Tableau as data visualization tool
    Link: https://public.tableau.com/app/profile/sri.hartina/viz/Practice2_16818832751140/Dashboard1 
    
 ![Parental Leave Policies](https://user-images.githubusercontent.com/110084624/233935734-76108c6c-91bd-42e8-8bd3-00497056f3b7.png)
+
+
+4. MAVEN AIRLINE: Passenger Satisfaction Rate. In this project i use passenger survey results to recommend a data-driven strategy for an airline to increase their customer satisfaction          ratings.
+
+![MAVEN AIRLINE - Passenger Satisfaction Rate](https://github.com/tinashdj/Tableau-Project/assets/110084624/c8e026be-241a-45e0-9683-cfb95f079de6)
