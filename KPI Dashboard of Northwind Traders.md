@@ -7,7 +7,8 @@ Sales & order data for Northwind Traders, a fictitious gourmet food supplier, in
 
 Dashboard link: https://public.tableau.com/app/profile/sri.hartina/viz/KPI_Traders/Dashboard1#1
 
-![KPI Dashboard of Northwind Traders](https://github.com/tinashdj/Tableau-Project/assets/110084624/b46aa7f4-d076-41d2-a0ab-53b8f0081bbf)
+![KPI Dashboard of Northwind Traders](https://github.com/tinashdj/Tableau-Project/assets/110084624/c16a9b88-3b80-4fab-8d06-d590b04bdc79)
+
 
 **The Concept.**
 In this project I only use a single page dashboard to shows the KPI performance.
