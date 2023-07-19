@@ -6,7 +6,7 @@ This is Maven Family Leave Challenge from Maven Analytics. For this challenge, i
    
 Dashboard Link: https://public.tableau.com/app/profile/sri.hartina/viz/Practice2_16818832751140/Dashboard1 
    
-Detail project: https://mavenanalytics.io/project/4926
+Detail Project: https://mavenanalytics.io/project/4926
    
 ![Parental Leave Policies](https://user-images.githubusercontent.com/110084624/233935734-76108c6c-91bd-42e8-8bd3-00497056f3b7.png)
 
