@@ -11,7 +11,8 @@ Dashboard Link: https://public.tableau.com/app/profile/sri.hartina/viz/KPI_Trade
 
 Detail Project: https://mavenanalytics.io/project/7460
 
-![KPI Dashboard of Northwind Traders](https://github.com/tinashdj/Tableau-Project/assets/110084624/c16a9b88-3b80-4fab-8d06-d590b04bdc79)
+![Tableau KPI Dashboard of Northwind Traders](https://github.com/tinashdj/Tableau-Project/assets/110084624/03d3cfbb-b48a-4792-beca-2f1398d780bb)
+
 
 
 **The Concept**
