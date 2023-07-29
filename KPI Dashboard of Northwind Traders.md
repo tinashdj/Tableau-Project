@@ -7,7 +7,7 @@ The goal of this project is to build a top-level KPI dashboard to help Northwind
 
 Sales & order data for Northwind Traders, a fictitious gourmet food supplier, including information on customers, products, orders, shippers, and employees. This dataset provides data from July 2013 to May 2015.
 
-Dashboard Link: https://public.tableau.com/app/profile/sri.hartina/viz/KPI_Traders/Dashboard1#1
+[Dashboard Link](https://public.tableau.com/app/profile/sri.hartina/viz/KPI_Traders/Dashboard1#1)
 
 Detail Project: https://mavenanalytics.io/project/7460
 
