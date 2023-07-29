@@ -9,7 +9,7 @@ Sales & order data for Northwind Traders, a fictitious gourmet food supplier, in
 
 [Dashboard Link](https://public.tableau.com/app/profile/sri.hartina/viz/KPI_Traders/Dashboard1#1)
 
-Detail Project: https://mavenanalytics.io/project/7460
+[Detail Project](https://mavenanalytics.io/project/7460)
 
 ![Tableau KPI Dashboard of Northwind Traders](https://github.com/tinashdj/Tableau-Project/assets/110084624/03d3cfbb-b48a-4792-beca-2f1398d780bb)
 
