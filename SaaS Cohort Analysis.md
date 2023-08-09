@@ -67,9 +67,10 @@ Given:
 - Margin = 80%
   
 We can use CLV (Customer Lifetime Value) formula to estimate our expected revenue per user
+
 CLV = (Average Order Value * Margin) / Churn rate
-       = ($20 * 80%) / 76%
-       = $21.05
+    = ($20 * 80%) / 76%
+    = $21.05
        
 We can expect single customer will gain revenue $21.05 until (in average) 1 month and 10 days ahead (Average Lifetime Value (1.3 month)
 
