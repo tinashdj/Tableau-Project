@@ -18,12 +18,19 @@
 **1.	How was the overall churn / retention rate performance in the company?**
 
 • If we average each elapsed month, we only retain 23% of the user retention.
+
 • It’s a big problem that the company only 20’s% of the users retention, even in the initial purchase subscription.
+
 • We have drop user churn in December 2010, but it’s because dataset is not even fully 30 days, so we only have partial information.
+
 • In sep 2010, some of our users upgrade their subscription / purchase add ons.
+
 • We can see that by looking at the increment from august-sept 2010.
+
 • The increment peaked in Oct-Nov 2010.
+
 • There’s drop on Jan 2010 to Feb 2010 cohort and so on
+
 • The possible reason the explain this is because:
   > Company reduce the marketing budget after Jan 2010 cohort
   > There’s seasonality in Jan 2010 (after new year sales)
