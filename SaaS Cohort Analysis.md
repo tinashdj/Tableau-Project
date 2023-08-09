@@ -29,7 +29,7 @@
 
 - The increment peaked in Oct-Nov 2010.
 
-- There’s drop on Jan 2010 to Feb 2010 cohort and so on
+- There’s drop on Jan 2010 to Feb 2010 cohort and so on.
 
 - The possible reason the explain this is because:
 
@@ -42,27 +42,35 @@
   
 - Marketing Efforts: Budget and Campaingn Creative.
   
-  If the problem is low marketing efforts (including low budget and bad campaign marketing), our recommendations just simply increase the budget or use marketing agency services (We have insufficient data to analyze which campaign creative is the best)
+  If the problem is low marketing efforts (including low budget and bad campaign marketing), our recommendations just simply increase the budget or use marketing agency services (We have insufficient data to analyze which campaign creative is the best).
 
-We’re interested to analyze the seasonal factors
+We’re interested to analyze the seasonal factors.
 
 **Seaonal Factors:**
 
-• In UK, there are at least 2 possible long holiday seasons: winter and summer
-• In Spring, we have Easter, May Day, and Mother Day as short holiday
-• In Autumn, we have Halloween and Diwali
-• Riding the wave, if competitors run seasonal campaign (e.g. 1.1 2.2 until 12.12), if our company can’t make it better, just follow the trend with additional uniqueness.
+- In UK, there are at least 2 possible long holiday seasons: winter and summer.
+  
+- In Spring, we have Easter, May Day, and Mother Day as short holiday.
+  
+- In Autumn, we have Halloween and Diwali.
+  
+- Riding the wave, if competitors run seasonal campaign (e.g. 1.1 2.2 until 12.12), if our company can’t make it better, just follow the trend with additional uniqueness.
 
 **Expected Future Revenue**
 
 Given:
-• Churn Rate = 76,34%
-• Average Order Value = $20 (Assume)
-• Margin = 80%
+
+- Churn Rate = 76,34%
+  
+- Average Order Value = $20 (Assume)
+  
+- Margin = 80%
+  
 We can use CLV (Customer Lifetime Value) formula to estimate our expected revenue per user
 CLV = (Average Order Value * Margin) / Churn rate
        = ($20 * 80%) / 76%
        = $21.05
+       
 We can expect single customer will gain revenue $21.05 until (in average) 1 month and 10 days ahead (Average Lifetime Value (1.3 month)
 
 **2. Is there any possibility to reach up to 50% revenue retention rate in the next 3 months?**
