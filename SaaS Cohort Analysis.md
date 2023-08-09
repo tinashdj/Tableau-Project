@@ -32,8 +32,8 @@
 • There’s drop on Jan 2010 to Feb 2010 cohort and so on
 
 • The possible reason the explain this is because:
-  - Company reduce the marketing budget after Jan 2010 cohort
-  - There’s seasonality in Jan 2010 (after new year sales)
+-Company reduce the marketing budget after Jan 2010 cohort
+- There’s seasonality in Jan 2010 (after new year sales)
 
 **Summary**
 
