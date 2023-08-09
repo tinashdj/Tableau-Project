@@ -133,42 +133,42 @@ Given information we have $65,000 marketing budget.
 
 **1.	How much CAC to acquire each user? (Active Users 4,258)**
    
-- Since we have 4,258 active accounts, to acquire each account we need divide $65,000 / 4,258 = $15,26 CAC
+- Since we have 4,258 active accounts, to acquire each account we need divide $65,000 / 4,258 = $15,26 CAC.
 
 **2.	Is it profitable to have CAC like this?**
    
 -	Using this calculation
   
-We can use CLV formula to estimate our expected revenue per user
+We can use CLV formula to estimate our expected revenue per user.
 
 CLV = (Average Order Value * Margin) / Churn Rate
        = ($20 * 80%) / 73%
        = $20,95
        
--	Our CAC is $15 and estimated average CLV is $20
+-	Our CAC is $15 and estimated average CLV is $20.
   
 -	We use rule thumb ratio CLV:CAC is 3:1, therefore our CLV is not good enough.
   
--	Company can’t conduct marketing campaign with high budget, because it will lead to revenue loss
+-	Company can’t conduct marketing campaign with high budget, because it will lead to revenue loss.
 
 **3.	What is overall best strategy for the company condition?**
    
--	Company can focus on short-term strategy to increase their revenue retention rate and CLV
+-	Company can focus on short-term strategy to increase their revenue retention rate and CLV.
   
--	Create typically cheap product & easy to launch product to boost short term revenue
+-	Create typically cheap product & easy to launch product to boost short term revenue.
   
--	E.g., Digital Templates or Themes for ecommerce store / Digital Guides or Courses
+-	E.g., Digital Templates or Themes for ecommerce store / Digital Guides or Courses.
   
--	If the company succeed to increase CLV, they can slightly focus on long-term strategy (user growth)
+-	If the company succeed to increase CLV, they can slightly focus on long-term strategy (user growth).
   
 
 **Further Analysis Recommendations**
 
 -	Based on the data we analyzed, we found the data pattern is not clearly visible in the descriptive analysis, it’s probably because:
   
-- The data itself, bad sampling, need larger sample size, or it’s not the latest data
-  
-- Level of analysis, we probably can leverage our insights through higher level of analysis (e.g. diagnostic / predictive)
+  > The data itself, bad sampling, need larger sample size, or it’s not the latest data
+
+  > Level of analysis, we probably can leverage our insights through higher level of analysis (e.g. diagnostic / predictive)
 
 
 
