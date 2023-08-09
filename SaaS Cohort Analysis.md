@@ -74,6 +74,7 @@ CLV = (Average Order Value * Margin) / Churn rate
        
 We can expect single customer will gain revenue $21.05 until (in average) 1 month and 10 days ahead (Average Lifetime Value (1.3 month)
 
+
 **2. Is there any possibility to reach up to 50% revenue retention rate in the next 3 months?**
 
 -	It’s likely possible to reach up to 50% in short term if we look at big drop between initial month subscription and first month subscription and also with next following months.
@@ -110,11 +111,13 @@ We can expect single customer will gain revenue $21.05 until (in average) 1 mont
   
   • And also implement free-trial- period strategy, allow customers to try the software before committing to a paid subscription.
 
+
 **3. Is there a trade off that occurs when we increase the retention rate?**
 
 -	If the company wants to focus on short-term user retention rates, then there’s a trade-off that company will probably lose user growth opportunities. (in short-term company tried to increase revenue as fast and high as possible)
 
 -	If a company wants to focus on long-term user growth, then there’s a trade-off that the company will not get much revenue in the short term. (in long-term, typically company will focus on retention and user growth)
+  
 
 **Cost Analysis**
 
@@ -157,6 +160,7 @@ CLV = (Average Order Value * Margin) / Churn Rate
 -	E.g., Digital Templates or Themes for ecommerce store / Digital Guides or Courses
   
 -	If the company succeed to increase CLV, they can slightly focus on long-term strategy (user growth)
+  
 
 **Further Analysis Recommendations**
 
