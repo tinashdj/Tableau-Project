@@ -9,6 +9,9 @@ This is a project from Pacmann Starter Course: Building Customer Churn Analytics
 
 [Dashboard Link](https://public.tableau.com/app/profile/sri.hartina/viz/SaaSCohortAnalysis_16906936470270/Dashboard1)
 
+![SaaS Cohort Analysis](https://github.com/tinashdj/Tableau-Project/assets/110084624/5eb49a4f-be05-4f4b-8869-b86b48fa78d4)
+
+
 **Churn Rate and Retention Rate**
 
 1.	How was the overall churn / retention rate performance in the company?
