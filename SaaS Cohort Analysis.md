@@ -38,8 +38,10 @@
 
 **Summary**
 
-• Seasonal Factors: Winter Holidays, and New Year
-• Marketing Efforts: Budget and Campaingn Creative
+- Seasonal Factors: Winter Holidays, and New Year.
+  
+- Marketing Efforts: Budget and Campaingn Creative.
+  
   If the problem is low marketing efforts (including low budget and bad campaign marketing), our recommendations just simply increase the budget or use marketing agency services (We have insufficient data to analyze which campaign creative is the best)
 
 We’re interested to analyze the seasonal factors
