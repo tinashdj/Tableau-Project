@@ -166,9 +166,9 @@ CLV = (Average Order Value * Margin) / Churn Rate
 
 -	Based on the data we analyzed, we found the data pattern is not clearly visible in the descriptive analysis, it’s probably because:
   
-    • The data itself, bad sampling, need larger sample size, or it’s not the latest data
+• The data itself, bad sampling, need larger sample size, or it’s not the latest data
 
-    • Level of analysis, we probably can leverage our insights through higher level of analysis (e.g. diagnostic / predictive)
+• Level of analysis, we probably can leverage our insights through higher level of analysis (e.g. diagnostic / predictive)
 
 
 
