@@ -1,4 +1,6 @@
-**Case Description**
+This is a project from Pacmann Starter Course: Building Customer Churn Analytics for Subscription Business
+
+# **Case Description**
 
 1.	SaaS company called shoppers is an e-commerce platform that allows individuals and business to create an online store to sell their products. The report that more than 50% of users churn in after using 1 month subscription
 2.	The COO decides that its’s time to take closer look at the company’s SaaS metrics performances in order to identify any issued and come up with a plan to improve overall performance.
