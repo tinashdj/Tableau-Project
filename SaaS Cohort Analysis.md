@@ -1,6 +1,6 @@
 This is a project from Pacmann Starter Course: Building Customer Churn Analytics for Subscription Business
 
-# **Case Description**
+## **Case Description**
 
 1.	SaaS company called shoppers is an e-commerce platform that allows individuals and business to create an online store to sell their products. The report that more than 50% of users churn in after using 1 month subscription
 2.	The COO decides that its’s time to take closer look at the company’s SaaS metrics performances in order to identify any issued and come up with a plan to improve overall performance.
@@ -12,15 +12,15 @@ This is a project from Pacmann Starter Course: Building Customer Churn Analytics
 ![SaaS Cohort Analysis](https://github.com/tinashdj/Tableau-Project/assets/110084624/5eb49a4f-be05-4f4b-8869-b86b48fa78d4)
 
 
-**Churn Rate and Retention Rate**
+## **Churn Rate and Retention Rate**
 
 1.	How was the overall churn / retention rate performance in the company?
 2.	Is there any possibility to reach up to 50% revenue retention rate in the next 3 months?
 3.	Is there a trade off that occurs when we increase the retention rate?
 
-**Answer**
+## **Answer**
 
-**1.	How was the overall churn / retention rate performance in the company?**
+### **1.	How was the overall churn / retention rate performance in the company?**
 
 - If we average each elapsed month, we only retain 23% of the user retention.
 
@@ -41,7 +41,7 @@ This is a project from Pacmann Starter Course: Building Customer Churn Analytics
 • Company reduce the marketing budget after Jan 2010 cohort
 • There’s seasonality in Jan 2010 (after new year sales)
 
-**Summary**
+#### **Summary**
 
 - Seasonal Factors: Winter Holidays, and New Year.
   
@@ -51,7 +51,7 @@ This is a project from Pacmann Starter Course: Building Customer Churn Analytics
 
 We’re interested to analyze the seasonal factors.
 
-**Seaonal Factors:**
+#### **Seaonal Factors:**
 
 - In UK, there are at least 2 possible long holiday seasons: winter and summer.
   
@@ -61,7 +61,7 @@ We’re interested to analyze the seasonal factors.
   
 - Riding the wave, if competitors run seasonal campaign (e.g. 1.1 2.2 until 12.12), if our company can’t make it better, just follow the trend with additional uniqueness.
 
-**Expected Future Revenue**
+#### **Expected Future Revenue**
 
 Given:
 
@@ -80,7 +80,7 @@ CLV = (Average Order Value * Margin) / Churn rate
 We can expect single customer will gain revenue $21.05 until (in average) 1 month and 10 days ahead (Average Lifetime Value (1.3 month)
 
 
-**2. Is there any possibility to reach up to 50% revenue retention rate in the next 3 months?**
+### **2. Is there any possibility to reach up to 50% revenue retention rate in the next 3 months?**
 
 -	It’s likely possible to reach up to 50% in short term if we look at big drop between initial month subscription and first month subscription and also with next following months.
   
@@ -117,14 +117,14 @@ We can expect single customer will gain revenue $21.05 until (in average) 1 mont
   • And also implement free-trial- period strategy, allow customers to try the software before committing to a paid subscription.
 
 
-**3. Is there a trade off that occurs when we increase the retention rate?**
+### **3. Is there a trade off that occurs when we increase the retention rate?**
 
 -	If the company wants to focus on short-term user retention rates, then there’s a trade-off that company will probably lose user growth opportunities. (in short-term company tried to increase revenue as fast and high as possible)
 
 -	If a company wants to focus on long-term user growth, then there’s a trade-off that the company will not get much revenue in the short term. (in long-term, typically company will focus on retention and user growth)
   
 
-**Cost Analysis**
+## **Cost Analysis**
 
 Given information we have $65,000 marketing budget.
 
@@ -132,15 +132,15 @@ Given information we have $65,000 marketing budget.
 2.	Is it profitable to have CAC like this?
 3.	What is overall best strategy for the company condition?
 
-**Answer**
+## **Answer**
 
 Given information we have $65,000 marketing budget.
 
-**1.	How much CAC to acquire each user? (Active Users 4,258)**
+### **1.	How much CAC to acquire each user? (Active Users 4,258)**
    
 - Since we have 4,258 active accounts, to acquire each account we need divide $65,000 / 4,258 = $15,26 CAC.
 
-**2.	Is it profitable to have CAC like this?**
+### **2.	Is it profitable to have CAC like this?**
    
 -	Using this calculation
   
@@ -156,7 +156,7 @@ CLV = (Average Order Value * Margin) / Churn Rate
   
 -	Company can’t conduct marketing campaign with high budget, because it will lead to revenue loss.
 
-**3.	What is overall best strategy for the company condition?**
+### **3.	What is overall best strategy for the company condition?**
    
 -	Company can focus on short-term strategy to increase their revenue retention rate and CLV.
   
@@ -167,7 +167,7 @@ CLV = (Average Order Value * Margin) / Churn Rate
 -	If the company succeed to increase CLV, they can slightly focus on long-term strategy (user growth).
   
 
-**Further Analysis Recommendations**
+## **Further Analysis Recommendations**
 
 Based on the data we analyzed, we found the data pattern is not clearly visible in the descriptive analysis, it’s probably because:
   
