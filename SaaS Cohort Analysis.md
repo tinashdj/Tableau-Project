@@ -76,62 +76,95 @@ We can expect single customer will gain revenue $21.05 until (in average) 1 mont
 
 **2. Is there any possibility to reach up to 50% revenue retention rate in the next 3 months?**
 
-•	It’s likely possible to reach up to 50% in short term if we look at big drop between initial month subscription and first month subscription and also with next following months.
-•	Instead, we can use a good user retention strategy to prevent event higher customer churn is the next following months.
-•	Technically, to retain existing in a short term we can use excellent customer service and offer discount to existing customer to keep them.
-•	To increase revenue retention and customer retention we can offer them with discount strategy with winning products add ons (Payment integration and storage).
-•	We can focus to improve Platinum user so overall revenue retention rate can be improved well.
-• Remember, since the difference between each category add-ons and user type is not significant enough by visualization, we can also implement general “treatment” to all type of users.
-•	Or, we can conduct deeper analysis to find another metrics, get more data, and level up the analysis (e.g. diagnostic analysis/predictive analysis)
-•	It’s likely possible to achieve 50% revenue retention rate in the long run, however we can still improve it but we need to consider several things:
+-	It’s likely possible to reach up to 50% in short term if we look at big drop between initial month subscription and first month subscription and also with next following months.
+  
+-	Instead, we can use a good user retention strategy to prevent event higher customer churn is the next following months.
+  
+-	Technically, to retain existing in a short term we can use excellent customer service and offer discount to existing customer to keep them.
+  
+-	To increase revenue retention and customer retention we can offer them with discount strategy with winning products add ons (Payment integration and storage).
+  
+-	We can focus to improve Platinum user so overall revenue retention rate can be improved well.
+  
+- Remember, since the difference between each category add-ons and user type is not significant enough by visualization, we can also implement general “treatment” to all type of users.
+  
+-	Or, we can conduct deeper analysis to find another metrics, get more data, and level up the analysis (e.g. diagnostic analysis/predictive analysis).
+  
+-	It’s likely possible to achieve 50% revenue retention rate in the long run, however we can still improve it but we need to consider several things:
+  
   **> Products**
+  
   • After looking at the drop between initial purchase and first month subscription, there’s and indication that our product / values didn’t meet the user expectations.
+  
   •	In order to improve revenue retention, in the long run we should improve company’s product and make another diverse product.
+  
   • Make a ‘sustainable’ product solution. For example, our user wants to make ecommerce, then we can provide all integrated solutions e.g. Marketing / Ad solution, shipping control, ecommerce interface design, hosting/server, etc.
+  
   • So user have no other choice but to use our products which are integrated with each other.
 
 **> Price**
+
   • Probably, instead of the product, the problem is with our product’s prices. If the proce is not worth the value, then the user is more likely to churn.
+  
   •	We can implement freemium pricing strategy, basic functionality is provided for free, but advanced features or higher usage limits require a paid subscription.
+  
   • And also implement free-trial- period strategy, allow customers to try the software before committing to a paid subscription.
 
 **3. Is there a trade off that occurs when we increase the retention rate?**
 
-•	If the company wants to focus on short-term user retention rates, then there’s a trade-off that company will probably lose user growth opportunities. (in short-term company tried to increase revenue as fast and high as possible)
-•	If a company wants to focus on long-term user growth, then there’s a trade-off that the company will not get much revenue in the short term. (in long-term, typically company will focus on retention and user growth)
+-	If the company wants to focus on short-term user retention rates, then there’s a trade-off that company will probably lose user growth opportunities. (in short-term company tried to increase revenue as fast and high as possible)
+
+-	If a company wants to focus on long-term user growth, then there’s a trade-off that the company will not get much revenue in the short term. (in long-term, typically company will focus on retention and user growth)
 
 **Cost Analysis**
 
 Given information we have $65,000 marketing budget.
+
 1.	How much CAC to acquire each user?
 2.	Is it profitable to have CAC like this?
 3.	What is overall best strategy for the company condition?
 
 **Answer**
-Given information we have $65,000 marketing budget.
-1.	How much CAC to acquire each user? (Active Users 4,258)
-• Since we have 4,258 active accounts, to acquire each account we need divide $65,000 / 4,258 = $15,26 CAC
 
-2.	Is it profitable to have CAC like this?
-•	Using this calculation
+Given information we have $65,000 marketing budget.
+
+**1.	How much CAC to acquire each user? (Active Users 4,258)**
+   
+- Since we have 4,258 active accounts, to acquire each account we need divide $65,000 / 4,258 = $15,26 CAC
+
+**2.	Is it profitable to have CAC like this?**
+   
+-	Using this calculation
+  
 We can use CLV formula to estimate our expected revenue per user
+
 CLV = (Average Order Value * Margin) / Churn Rate
        = ($20 * 80%) / 73%
        = $20,95
-•	Our CAC is $15 and estimated average CLV is $20
-•	We use rule thumb ratio CLV:CAC is 3:1, therefore our CLV is not good enough.
-•	Company can’t conduct marketing campaign with high budget, because it will lead to revenue loss
+       
+-	Our CAC is $15 and estimated average CLV is $20
+  
+-	We use rule thumb ratio CLV:CAC is 3:1, therefore our CLV is not good enough.
+  
+-	Company can’t conduct marketing campaign with high budget, because it will lead to revenue loss
 
-3.	What is overall best strategy for the company condition?
-•	Company can focus on short-term strategy to increase their revenue retention rate and CLV
-•	Create typically cheap product & easy to launch product to boost short term revenue
-•	E.g., Digital Templates or Themes for ecommerce store / Digital Guides or Courses
-•	If the company succeed to increase CLV, they can slightly focus on long-term strategy (user growth)
+**3.	What is overall best strategy for the company condition?**
+   
+-	Company can focus on short-term strategy to increase their revenue retention rate and CLV
+  
+-	Create typically cheap product & easy to launch product to boost short term revenue
+  
+-	E.g., Digital Templates or Themes for ecommerce store / Digital Guides or Courses
+  
+-	If the company succeed to increase CLV, they can slightly focus on long-term strategy (user growth)
 
 **Further Analysis Recommendations**
-•	Based on the data we analyzed, we found the data pattern is not clearly visible in the descriptive analysis, it’s probably because:
-  > The data itself, bad sampling, need larger sample size, or it’s not the latest data
-  > Level of analysis, we probably can leverage our insights through higher level of analysis (e.g. diagnostic / predictive)
+
+-	Based on the data we analyzed, we found the data pattern is not clearly visible in the descriptive analysis, it’s probably because:
+  
+  • The data itself, bad sampling, need larger sample size, or it’s not the latest data
+  
+  • Level of analysis, we probably can leverage our insights through higher level of analysis (e.g. diagnostic / predictive)
 
 
 
