@@ -98,7 +98,7 @@ We can expect single customer will gain revenue $21.05 until (in average) 1 mont
   
 -	It’s likely possible to achieve 50% revenue retention rate in the long run, however we can still improve it but we need to consider several things:
   
-  **> Products**
+  #### **> Products**
   
   • After looking at the drop between initial purchase and first month subscription, there’s and indication that our product / values didn’t meet the user expectations.
   
@@ -108,7 +108,7 @@ We can expect single customer will gain revenue $21.05 until (in average) 1 mont
   
   • So user have no other choice but to use our products which are integrated with each other.
 
-**> Price**
+#### **> Price**
 
   • Probably, instead of the product, the problem is with our product’s prices. If the proce is not worth the value, then the user is more likely to churn.
   
