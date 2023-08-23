@@ -100,7 +100,7 @@ We can expect single customer will gain revenue $21.05 until (in average) 1 mont
   
   #### **> Products**
   
-  • After looking at the drop between initial purchase and first month subscription, there’s and indication that our product / values didn’t meet the user expectations.
+  • After looking at the drop between initial purchase and first month subscription, there’s an indication that our product / values didn’t meet the user expectations.
   
   •	In order to improve revenue retention, in the long run we should improve company’s product and make another diverse product.
   
